@@ -3,6 +3,7 @@
 Um aplicativo de anotações simples, leve e funcional feito com Flutter. Ideal para anotar ideias rapidamente, com recursos úteis como modo escuro, busca por conteúdo, fixar notas importantes, e salvamento automático.
 
 📱 Funcionalidades
+
 ✅ Criar, editar e excluir notas
 
 🌙 Suporte ao modo escuro/claro
