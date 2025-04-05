@@ -14,8 +14,6 @@ Um aplicativo de anotações simples, leve e funcional feito com Flutter. Ideal 
 
 💾 Salvamento automático ao sair ou minimizar o app
 
-🧠 Interface com Material Design 3
-
 📅 Cada nota exibe data e hora de criação/edição
 
 🔒 Armazenamento seguro das notas com Flutter Secure Storage
