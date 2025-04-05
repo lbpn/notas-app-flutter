@@ -9,7 +9,7 @@ Um aplicativo de anotações simples, leve e funcional feito com Flutter. Ideal 
 
 🔍 Busca por conteúdo (título e texto da nota)
 
-📌 Fixar notas importantes
+📌 Fixar notas
 
 💾 Salvamento automático ao sair ou minimizar o app
 
